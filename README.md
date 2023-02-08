@@ -7,7 +7,7 @@
 
 ------
 
-:link:[个人博客](http://www.zzmilktea.codes/) :link: [个人码云](https://gitee.com/zzmilktea) :link: [个人网页版简历](http://www.zzmilktea.codes/resume):link:
+:link:[个人博客-已失效](http://www.zzmilktea.codes/) :link: [个人码云](https://gitee.com/zzmilktea) :link: 
 
 ## 技术栈
 
