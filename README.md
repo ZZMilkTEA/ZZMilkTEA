@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 我是zz奶茶君(*^▽^*)
-## 现在是个正在游戏行业干golang服务器后端的社畜:necktie:，能入到喜欢的行业非常开心！(^_−)☆
-### 梦想是能当上游戏制作人ヽ(￣▽￣)ノ
+## 现在是个正在游戏行业干golang服务器后端的社畜:necktie:，能入到喜欢的行业非常开心！(^_−)☆近期在积极学习AI相关的内容
+### 梦想是能做出自己的游戏ヽ(￣▽￣)ノ
 #### 业余时间会打打游戏:video_game:、偷偷学习和敲代码:keyboard:ヾ(°∀°ゞ)
 
 ------
@@ -19,7 +19,7 @@
 
 | Office                  | Adobe                              | 艺术                                                         | 三维                        |
 | ----------------------- | ---------------------------------- | ------------------------------------------------------------ | --------------------------- |
-| Word, Excel, PPT, Visio | Photoshop, After Effects, Primiere | 架子鼓:drum:，部分其它打击乐:drum:，一点点钢琴:musical_keyboard:，一点点编曲:notes:，摄影:camera:，一点点平面设计和绘画:paintbrush: | CINEMA 4D, Blender, Houdini |
+| Word, Excel, PPT, Visio | Photoshop, After Effects, Primiere | 架子鼓:drum:，部分其它打击乐:drum:，一点点钢琴吉他🎸:musical_keyboard:，一点点编曲:notes:，摄影:camera:，一点点平面设计和绘画:paintbrush: | CINEMA 4D, Blender, Houdini |
 
 
 
